@@ -1,3 +1,14 @@
+/**
+*TokenizerMain.java
+*
+*Created on May 25, 2003, 5:33 PM
+*/
+
+/**
+*
+*@author Ayoze Elvira
+*/
+
 
 package org.fogbeam.example.opennlp;
 
@@ -13,6 +24,7 @@ import opennlp.tools.tokenize.TokenizerModel;
 
 public class TokenizerMain
 {
+    /**@param args Array de argumentos*/
 	public static void main( String[] args ) throws Exception
 	{
 		
