@@ -24,8 +24,6 @@ import opennlp.tools.tokenize.TokenizerModel;
 
 public class TokenizerMain
 {
-
-     /**@throws  Exception Exception*/
 	public static void main( String[] args ) throws Exception
 	{
 		
