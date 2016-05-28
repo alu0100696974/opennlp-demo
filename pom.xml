@@ -4,7 +4,7 @@
 	<groupId>org.fogbeam.example.opennlp</groupId>
 	<artifactId>nlp-demo1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-
+<properties><additionalparam>-Xdoclint:none</additionalparam></properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.opennlp</groupId>
